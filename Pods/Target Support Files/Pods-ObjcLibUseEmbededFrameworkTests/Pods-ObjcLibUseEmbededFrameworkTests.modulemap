@@ -1,0 +1,6 @@
+framework module Pods_ObjcLibUseEmbededFrameworkTests {
+  umbrella header "Pods-ObjcLibUseEmbededFrameworkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

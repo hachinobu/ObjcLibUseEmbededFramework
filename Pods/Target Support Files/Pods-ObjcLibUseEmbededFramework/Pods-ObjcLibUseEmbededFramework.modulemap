@@ -1,0 +1,6 @@
+framework module Pods_ObjcLibUseEmbededFramework {
+  umbrella header "Pods-ObjcLibUseEmbededFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

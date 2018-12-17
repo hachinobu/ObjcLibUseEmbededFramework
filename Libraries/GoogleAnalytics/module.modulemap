@@ -1,0 +1,6 @@
+module GoogleAnalytics {
+    header "../../Pods/GoogleAnalytics/Sources/GAI.h"
+    header "../../Pods/GoogleAnalytics/Sources/GAIDictionaryBuilder.h"
+    header "../../Pods/GoogleAnalytics/Sources/GAIFields.h"
+    link "GoogleAnalytics"
+}
